@@ -139,5 +139,7 @@ dmypy.json
 *.png
 *.tif
 *.tiff
-!/assets/images_for_README/*.png
-!/input/sample.jpeg
+
+# compressed files
+*.gz
+*-ubyte
